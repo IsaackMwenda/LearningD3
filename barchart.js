@@ -1,4 +1,4 @@
-// select the svg conatiner first
+// select the svg container first
 const svg = d3.select('.canvas')
     .append('svg')
       .attr('width',600)
