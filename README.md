@@ -1,2 +1,2 @@
 ### Learning D3 and Firebase
-- Getting started with D3 and firebase
+- A repo containing my D3 and Firebase learning files.
